@@ -18,6 +18,6 @@ Cat vs. Dog Classifier is a transfer learning-based image classification project
 - **Validation accuracy**: 96.5% (training accuracy 98.2%).
 - **Classification Report**:
 - Cat: Precision 96.3%, Recall 97.0%, F1 score 96.6%. 
-- Dog: 96.7% precision, 96.0% recall, 96.3% F1 score.
+- Dog: Precision  96.7%, Recall 96.0%, F1 score 96.3%.
 - **Model size**: 45 MB, efficient and suitable for edge devices.
 - **Grad-CAM**: The model focuses on key features such as head and torso to prove decision reliability.
